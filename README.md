@@ -30,4 +30,4 @@ Model performs better on short, emotion-rich text (GoEmotions) compared to long 
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run chatbot_ui_2.py
