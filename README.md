@@ -22,6 +22,10 @@ A web-based chatbot that analyzes user sentiment using NLP techniques.
 ### Insight:
 Model performs better on short, emotion-rich text (GoEmotions) compared to long complex reviews (IMDb).
 
+## Contributors
+- Ratnadip Shaw
+- Sabeeka Firdous
+
 ## Run Locally
 
 ```bash
