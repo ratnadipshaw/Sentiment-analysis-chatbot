@@ -16,7 +16,7 @@ A web-based chatbot that analyzes user sentiment using NLP techniques.
 - Final score = average of both
 
 ## Evaluation
-- IMDb Dataset → ~60% accuracy
+- IMDb Dataset → ~70% accuracy
 - Google GoEmotions Dataset → ~81% accuracy
 
 ### Insight:
