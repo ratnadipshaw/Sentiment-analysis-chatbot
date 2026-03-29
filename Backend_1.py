@@ -284,7 +284,7 @@ def start_interactive_session():
                if get_bot_response(corrected_text) == "goodbye":
                  exit
 
-if __name__ == "_main_":
+if __name__ == "__main__":
   testing_1()
   testing_2()
   start_interactive_session()
